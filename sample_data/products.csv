@@ -1,0 +1,13 @@
+product_ref,title,category,subcategory,brand,price,tags,description,in_stock
+PRD-001,Wireless Noise-Canceling Headphones,Electronics,Audio,Sony,299.99,wireless audio noise-canceling bluetooth,Premium over-ear headphones with active noise cancellation and 30h battery life.,true
+PRD-002,Ergonomic Office Chair,Furniture,Seating,Herman Miller,449.00,ergonomic office chair lumbar support,Adjustable ergonomic chair with lumbar support designed for long working hours.,true
+PRD-003,Mechanical Keyboard Red Switches,Electronics,Peripherals,Keychron,89.99,mechanical keyboard gaming rgb,Compact tenkeyless mechanical keyboard with red switches ideal for gaming and typing.,false
+PRD-004,Stainless Steel Water Bottle 1L,Accessories,Drinkware,Hydro Flask,34.00,water bottle insulated steel hydration,Double-walled insulated bottle keeps drinks cold 24h or hot 12h.,true
+PRD-005,Bluetooth Portable Speaker,Electronics,Audio,JBL,79.99,bluetooth speaker portable waterproof audio,Compact waterproof speaker with 12h playtime and powerful bass.,true
+PRD-006,Leather Laptop Sleeve 15 inch,Accessories,Bags,Bellroy,59.00,laptop sleeve leather 15inch macbook,Slim premium leather sleeve compatible with 15-inch laptops including MacBook Pro.,true
+PRD-007,USB-C Fast Charger 65W,Electronics,Charging,Anker,35.99,usb-c fast charger 65w GaN charger,GaN technology compact 65W fast charger compatible with laptops tablets and phones.,true
+PRD-008,Standing Desk Converter,Furniture,Desks,FlexiSpot,179.00,standing desk ergonomic office converter,Height-adjustable desk converter lets you work standing or sitting throughout the day.,true
+PRD-009,Wireless Gaming Mouse,Electronics,Peripherals,Logitech,79.99,wireless gaming mouse ergonomic precision,Ultra-light wireless gaming mouse with 25600 DPI sensor and 70h battery.,true
+PRD-010,Noise-Canceling Earbuds,Electronics,Audio,Apple,249.00,earbuds noise-canceling wireless bluetooth,Premium wireless earbuds with adaptive transparency and spatial audio.,true
+PRD-011,Monitor Light Bar,Electronics,Lighting,BenQ,109.00,monitor light bar desk lamp ergonomic,Anti-glare screen light bar with asymmetric optical design for zero-reflection on monitor.,true
+PRD-012,Laptop Stand Aluminum,Accessories,Stands,Twelve South,69.00,laptop stand aluminum macbook ergonomic,Portable aluminum laptop stand adjustable to 6 different heights for comfortable viewing.,true

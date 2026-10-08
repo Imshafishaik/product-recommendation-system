@@ -1,0 +1,9 @@
+customer_ref,name,email,segment
+CUST-001,Alice Johnson,alice@example.com,New
+CUST-002,Bob Smith,bob@example.com,New
+CUST-003,Charlie Davis,charlie@example.com,New
+CUST-004,Diana Prince,diana@example.com,New
+CUST-005,Eve Thompson,eve@example.com,New
+CUST-006,Frank Miller,frank@example.com,New
+CUST-007,Grace Lee,grace@example.com,New
+CUST-008,Henry Wilson,henry@example.com,New
