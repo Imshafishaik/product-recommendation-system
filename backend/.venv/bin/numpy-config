@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/shafi/Downloads/final-project 3/backend/.venv/bin/python" "$0" "$@"
-' '''
+#!/Users/shafi/Downloads/recommendation-engine-project/backend/.venv/bin/python3.12
 import sys
 from numpy._configtool import main
 if __name__ == '__main__':
